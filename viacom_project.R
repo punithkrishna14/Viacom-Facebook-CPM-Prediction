@@ -1,4 +1,3 @@
-setwd('D:/Life in US/ALY 6080/NEU-2019-Social-demo-targeting')
 cpm <- read.csv('cpm_estimates-15Apr19.csv')
 
 # Cancel scientific numbering
